@@ -8,7 +8,7 @@ Hello! My name is Loc H. Dang, but you can call me Ryogu. I am passionate about 
   - Expected graduation: Oct/2026
 
 ## Languages :abcd:
-Yes, I do :loudspeaker: **speak** :loudspeaker: the following languages:
+Yes, I do <span><img src="https://static.xx.fbcdn.net/images/emoji.php/v9/tb5/1/32/1f5e3.png" width="18px"/></span> **speak** <span><img src="https://static.xx.fbcdn.net/images/emoji.php/v9/tb5/1/32/1f5e3.png" width="18px"/></span> the following languages:
 <p style="text-align: center;">
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,solidity&theme=dark" />
 </p>
