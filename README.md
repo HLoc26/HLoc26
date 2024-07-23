@@ -7,7 +7,7 @@ Hello! My name is Loc H. Dang, but you can call me :sparkles:Ryogu:sparkles:. I 
 - **Bachelor of Information Technology**
   - Expected graduation: Oct/2026
 
-## Projects
+## Projects 🔨
 ### [Project: Bookstore](https://github.com/HLoc26/PROJECT-DBMS)
 
 - **Description**: An application to manage a bookstore.
