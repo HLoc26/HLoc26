@@ -32,6 +32,7 @@ Hello! My name is Loc H. Dang. I'm a junior majoring in software engineering at 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="48px" alt="CSS3"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48px" alt="JavaScript"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" width="48px" alt="Bootstrap"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="48px" alt="Vite"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="48px" alt="React"/>
     </p>
   - **Back-end**:
@@ -40,6 +41,7 @@ Hello! My name is Loc H. Dang. I'm a junior majoring in software engineering at 
       <img src="https://skillicons.dev/icons?i=express" width="48px" alt="Express"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48px" alt="JavaScript"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="48px" alt="MySQL"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original-wordmark.svg" width="48px" alt="Sequelize"/>
     </p>
 
 ### [Bookstore](https://github.com/HLoc26/PROJECT-DBMS)
