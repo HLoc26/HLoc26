@@ -22,27 +22,14 @@ Hello! My name is Loc H. Dang. I'm a junior majoring in software engineering at 
 
 ## Projects 🔨
 
-### [HomeQuest](https://github.com/HLoc26/HomeQuest)
-- **Type**: Individual project
-- **Description**: A self-hosting web application designed to create and assign housework tasks for family members.
+### [YouTube Trend Analysis Pipeline](https://github.com/HLoc26/youtube-analysis)
+- **Type**: Individual project  
+- **Description**: A complete data pipeline for analyzing YouTube trending videos using Airflow, Spark, and LocalStack. The pipeline automates ingestion, validation, processing, and analytics generation across multiple countries.  
 - **Tech Stack**:
-  - **Front-end**:
-    <p align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="48px" alt="HTML5"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="48px" alt="CSS3"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48px" alt="JavaScript"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" width="48px" alt="Bootstrap"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="48px" alt="Vite"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="48px" alt="React"/>
-    </p>
-  - **Back-end**:
-    <p align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" width="48px" alt="Node.js"/>
-      <img src="https://skillicons.dev/icons?i=express" width="48px" alt="Express"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48px" alt="JavaScript"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="48px" alt="MySQL"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original-wordmark.svg" width="48px" alt="Sequelize"/>
-    </p>
+  - **Orchestration**: Airflow
+  - **Processing**: Apache Spark (PySpark)
+  - **Infrastructure**: Docker, AWS, PostgreSQL
+  - **Tools**: JupyterLab, BashScripts, Git
 
 ### [Bookstore](https://github.com/HLoc26/PROJECT-DBMS)
 - **Description**: An application to manage a bookstore’s operations.
@@ -51,7 +38,14 @@ Hello! My name is Loc H. Dang. I'm a junior majoring in software engineering at 
   - **Languages**: C#, T-SQL
   - **Database**: Microsoft SQL Server (MSSQL Server)
   - **Tools**: Visual Studio 2022, Microsoft SQL Server Management Studio
-
+  - 
+### [HomeQuest](https://github.com/HLoc26/HomeQuest)
+- **Type**: Individual project
+- **Description**: A self-hosting web application designed to create and assign housework tasks for family members.
+- **Tech Stack**:
+  - **Front-end**: ReactJS, Vite, Bootstrap
+  - **Back-end**: Node.js, ExpressJS, MySQL, Sequelize
+  - 
 ## Contact 📬
 Feel free to reach out to me!
 
