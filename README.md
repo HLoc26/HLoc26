@@ -38,7 +38,7 @@ Hello! My name is Loc H. Dang. I'm a junior majoring in software engineering at 
   - **Languages**: C#, T-SQL
   - **Database**: Microsoft SQL Server (MSSQL Server)
   - **Tools**: Visual Studio 2022, Microsoft SQL Server Management Studio
-  - 
+
 ### [HomeQuest](https://github.com/HLoc26/HomeQuest)
 - **Type**: Individual project
 - **Description**: A self-hosting web application designed to create and assign housework tasks for family members.
