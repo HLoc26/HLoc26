@@ -24,12 +24,12 @@ Hello! My name is Loc H. Dang. I'm a junior majoring in software engineering at 
 ## Projects 🔨
 
 ### [YouTube Trend Analysis Pipeline](https://github.com/HLoc26/youtube-analysis)
-- **Type**: Individual project  
+- **Type**: Capstone Project at Samsung Inovation Camp - Big Data
 - **Description**: A complete data pipeline for analyzing YouTube trending videos using Airflow, Spark, and LocalStack. The pipeline automates ingestion, validation, processing, and analytics generation across multiple countries.  
 - **Tech Stack**:
   - **Orchestration**: Airflow
   - **Processing**: Apache Spark (PySpark)
-  - **Infrastructure**: Docker, AWS, PostgreSQL
+  - **Infrastructure**: Docker, AWS (LocalStack), PostgreSQL
   - **Tools**: JupyterLab, BashScripts, Git
 
 ### [Bookstore](https://github.com/HLoc26/PROJECT-DBMS)
