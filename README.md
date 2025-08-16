@@ -25,10 +25,9 @@ Hello! My name is Loc H. Dang. I'm a junior majoring in software engineering at 
 - **Tech Stack**:
   - **Frontend**: React, Redux, Material UI, React Router
   - **Backend**: Node.js, Express.js
-  - **Database**: MySQL (Aiven), Sequelize ORM
-  - **Cache**: Redis (Upstash)
-  - **Deployment**: Vercel (frontend), Render (backend), NGINX (static hosting)
-  - **Other**: Docker, Layered Architecture, JWT Authentication
+  - **Database**: MySQL, Sequelize ORM
+  - **Cache**: Redis 
+  - **Other**: Docker, Docker Compose
 
 ### [Serverless Music](https://github.com/HLoc26/FCJ-Serverless-Music)
 - **Type**: Team Project
