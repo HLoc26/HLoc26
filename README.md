@@ -19,22 +19,25 @@ Hello! My name is Loc H. Dang. I'm a junior majoring in software engineering at 
 
 ## Projects 🔨
 
-### [YouTube Trend Analysis Pipeline](https://github.com/HLoc26/youtube-analysis)
-- **Type**: Capstone Project at Samsung Inovation Camp - Big Data
-- **Description**: A complete data pipeline for analyzing YouTube trending videos using Airflow, Spark, and LocalStack. The pipeline automates ingestion, validation, processing, and analytics generation across multiple countries.  
+### [VinaBooking](https://github.com/HLoc26/Vinabooking)
+- **Type**: University Project
+- **Description**: A full-stack hotel booking platform inspired by Booking.com. The project allows users to search, book, and manage accommodations while providing hosts with property management features.  
 - **Tech Stack**:
-  - **Orchestration**: Airflow
-  - **Processing**: Apache Spark (PySpark)
-  - **Infrastructure**: Docker, AWS (LocalStack), PostgreSQL
-  - **Tools**: JupyterLab, BashScripts, Git
+  - **Frontend**: React, Redux, Material UI, React Router
+  - **Backend**: Node.js, Express.js
+  - **Database**: MySQL (Aiven), Sequelize ORM
+  - **Cache**: Redis (Upstash)
+  - **Deployment**: Vercel (frontend), Render (backend), NGINX (static hosting)
+  - **Other**: Docker, Layered Architecture, JWT Authentication
 
-### [Bookstore](https://github.com/HLoc26/PROJECT-DBMS)
-- **Description**: An application to manage a bookstore’s operations.
-- **Role**: Backend Developer
+### [Serverless Music](https://github.com/HLoc26/FCJ-Serverless-Music)
+- **Type**: Team Project
+- **Description**: A serverless music streaming platform built with AWS services. It provides user authentication, playlist management, and music storage, leveraging the scalability of serverless infrastructure.  
 - **Tech Stack**:
-  - **Languages**: C#, T-SQL
-  - **Database**: Microsoft SQL Server (MSSQL Server)
-  - **Tools**: Visual Studio 2022, Microsoft SQL Server Management Studio
+  - **Frontend**: React
+  - **Cloud Services**: AWS Lambda, Amazon API Gateway, Amazon DynamoDB, Amazon S3, Amazon Cognito
+  - **Infrastructure**: AWS Amplify, AWS CloudFormation
+  - **Other**: JWT Authentication
 
 ## Contact 📬
 Feel free to reach out to me!
